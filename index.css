@@ -26,3 +26,6 @@ h5 {
   padding-right: 100px;
   padding-left: 100px;
 }
+.card-body text-center {
+  background-color: lightcoral;
+}
