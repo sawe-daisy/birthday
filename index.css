@@ -9,8 +9,20 @@ body {
   padding-bottom: 50px;
   padding-right: 100px;
   padding-left: 100px;
+  background-color: lightcoral;
 }
 .col-md-6 {
+  padding-right: 100px;
+  padding-left: 100px;
+  background-color: blueviolet;
+}
+h5 {
+  align-items: center;
+  font-size: 20px;
+  font-family: sans-serif;
+}
+.class-md-6 {
+  background-color: lightcoral;
   padding-right: 100px;
   padding-left: 100px;
 }
